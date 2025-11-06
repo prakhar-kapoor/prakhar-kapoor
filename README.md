@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Prakhar Kapoor  
 
-<!--
-**prakhar-kapoor/prakhar-kapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer  
 
-Here are some ideas to get you started:
+I love building modern and responsive web apps with React.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me  
+- 💡 Passionate about creating beautiful and interactive UI designs  
+- 🌱 Currently exploring advanced React and UI/UX concepts  
+- 🚀 Always eager to learn new technologies and improve my craft  
+
+---
+
+### ⚙️ Tech Stack  
+**Languages & Tools:**  
+HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub  
+
+---
+
+### 🌐 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/prakhar-kapoor-0965a4395/)  
+- [Portfolio](https://resplendent-babka-4d728c.netlify.app/)  
+
+---
+
+### 📊 GitHub Stats  
+![Prakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakharkapoor&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharkapoor&layout=compact&theme=radical)  
+
+---
+
+⭐️ *“Code. Learn. Repeat.”*
